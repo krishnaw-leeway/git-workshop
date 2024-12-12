@@ -1,3 +1,6 @@
 // Git Workshop
+const arr = ["Hello", "Hi", "Bye bye"];
 
-console.log('Hi')
+arr.forEach((element) => {
+  console.log(element);
+});
