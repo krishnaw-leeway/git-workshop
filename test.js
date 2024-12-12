@@ -1,5 +1,5 @@
 // Git Workshop
-const arr = ["Hello", "Hi", "Bye bye", "tata"];
+const arr = ["Hello", "Hi", "Bye bye", "tata", "gaya"];
 
 arr.forEach((element) => {
   console.log(element);
